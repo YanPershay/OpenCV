@@ -1,0 +1,220 @@
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\ZedGraph.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\ZedGraph.xml
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\de\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\es\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\it\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\Lab1.exe.config
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\ZedGraph.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\ZedGraph.xml
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\de\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\es\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\it\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\obj\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab2\Lab1\obj\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\Lab1.exe.config
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\DirectShowLib.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\ZedGraph.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\DirectShowLib.pdb
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\ZedGraph.xml
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\de\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\es\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\it\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\obj\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab3\Lab1\obj\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\obj\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\obj\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\Lab1.exe.config
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\DirectShowLib.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\ZedGraph.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\DirectShowLib.pdb
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\ZedGraph.xml
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\de\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\es\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\it\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab6\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\obj\Debug\Lab1.Form1.resources
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\obj\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\obj\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\Lab1.exe.config
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\Lab1.exe
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\Lab1.pdb
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\DirectShowLib.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\ZedGraph.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\DirectShowLib.pdb
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\ZedGraph.xml
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\de\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\es\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\fr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\hu\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\it\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\ja\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\pt\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\ru\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\sk\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\sv\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\tr\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+D:\Subject\MultiMedia\Lab\Lab7\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+E:\Lab7\Lab1\bin\Debug\Lab1.exe.config
+E:\Lab7\Lab1\bin\Debug\Lab1.exe
+E:\Lab7\Lab1\bin\Debug\Lab1.pdb
+E:\Lab7\Lab1\bin\Debug\DirectShowLib.dll
+E:\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+E:\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+E:\Lab7\Lab1\bin\Debug\ZedGraph.dll
+E:\Lab7\Lab1\bin\Debug\DirectShowLib.pdb
+E:\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+E:\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+E:\Lab7\Lab1\bin\Debug\ZedGraph.xml
+E:\Lab7\Lab1\bin\Debug\de\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\es\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\fr\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\hu\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\it\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\ja\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\pt\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\ru\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\sk\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\sv\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\tr\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Lab7\Lab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Lab7\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\Lab7\Lab1\obj\Debug\Lab1.Form1.resources
+E:\Lab7\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\Lab7\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\Lab7\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Lab7\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+E:\Lab7\Lab1\obj\Debug\Lab1.exe
+E:\Lab7\Lab1\obj\Debug\Lab1.pdb
+E:\7 opencv\Lab7\Lab1\bin\Debug\Lab1.exe.config
+E:\7 opencv\Lab7\Lab1\bin\Debug\Lab1.exe
+E:\7 opencv\Lab7\Lab1\bin\Debug\Lab1.pdb
+E:\7 opencv\Lab7\Lab1\bin\Debug\DirectShowLib.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\ZedGraph.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\DirectShowLib.pdb
+E:\7 opencv\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+E:\7 opencv\Lab7\Lab1\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+E:\7 opencv\Lab7\Lab1\bin\Debug\ZedGraph.xml
+E:\7 opencv\Lab7\Lab1\bin\Debug\de\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\es\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\fr\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\hu\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\it\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\ja\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\pt\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\ru\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\sk\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\sv\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\tr\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\7 opencv\Lab7\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\7 opencv\Lab7\Lab1\obj\Debug\Lab1.Form1.resources
+E:\7 opencv\Lab7\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\7 opencv\Lab7\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\7 opencv\Lab7\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\7 opencv\Lab7\Lab1\obj\Debug\Lab1.csproj.CopyComplete
+E:\7 opencv\Lab7\Lab1\obj\Debug\Lab1.exe
+E:\7 opencv\Lab7\Lab1\obj\Debug\Lab1.pdb

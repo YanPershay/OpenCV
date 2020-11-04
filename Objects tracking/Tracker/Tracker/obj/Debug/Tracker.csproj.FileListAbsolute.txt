@@ -1,0 +1,80 @@
+E:\Tracker\Tracker\bin\Debug\x64\concrt140.dll
+E:\Tracker\Tracker\bin\Debug\x64\cvextern.dll
+E:\Tracker\Tracker\bin\Debug\x64\msvcp140.dll
+E:\Tracker\Tracker\bin\Debug\x64\opencv_ffmpeg343_64.dll
+E:\Tracker\Tracker\bin\Debug\x64\vcruntime140.dll
+E:\Tracker\Tracker\bin\Debug\x86\concrt140.dll
+E:\Tracker\Tracker\bin\Debug\x86\cvextern.dll
+E:\Tracker\Tracker\bin\Debug\x86\msvcp140.dll
+E:\Tracker\Tracker\bin\Debug\x86\opencv_ffmpeg343.dll
+E:\Tracker\Tracker\bin\Debug\x86\vcruntime140.dll
+E:\Tracker\Tracker\bin\Debug\Tracker.exe.config
+E:\Tracker\Tracker\bin\Debug\Tracker.exe
+E:\Tracker\Tracker\bin\Debug\Tracker.pdb
+E:\Tracker\Tracker\bin\Debug\Emgu.CV.UI.dll
+E:\Tracker\Tracker\bin\Debug\Emgu.CV.World.dll
+E:\Tracker\Tracker\bin\Debug\ZedGraph.dll
+E:\Tracker\Tracker\bin\Debug\Emgu.CV.UI.xml
+E:\Tracker\Tracker\bin\Debug\Emgu.CV.World.xml
+E:\Tracker\Tracker\bin\Debug\ZedGraph.xml
+E:\Tracker\Tracker\bin\Debug\de\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\es\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\fr\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\hu\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\it\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\ja\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\pt\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\ru\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\sk\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\sv\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\tr\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Tracker\Tracker\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Tracker\Tracker\obj\Debug\Tracker.csprojAssemblyReference.cache
+E:\Tracker\Tracker\obj\Debug\Tracker.Form1.resources
+E:\Tracker\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\Tracker\Tracker\obj\Debug\Tracker.csproj.GenerateResource.cache
+E:\Tracker\Tracker\obj\Debug\Tracker.csproj.CoreCompileInputs.cache
+E:\Tracker\Tracker\obj\Debug\Tracker.csproj.CopyComplete
+E:\Tracker\Tracker\obj\Debug\Tracker.exe
+E:\Tracker\Tracker\obj\Debug\Tracker.pdb
+E:\7 opencv\Tracker\Tracker\bin\Debug\x64\concrt140.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\x64\cvextern.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\x64\msvcp140.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\x64\opencv_ffmpeg343_64.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\x64\vcruntime140.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\x86\concrt140.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\x86\cvextern.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\x86\msvcp140.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\x86\opencv_ffmpeg343.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\x86\vcruntime140.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\Tracker.exe.config
+E:\7 opencv\Tracker\Tracker\bin\Debug\Tracker.exe
+E:\7 opencv\Tracker\Tracker\bin\Debug\Tracker.pdb
+E:\7 opencv\Tracker\Tracker\bin\Debug\Emgu.CV.UI.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\Emgu.CV.World.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\ZedGraph.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\Emgu.CV.UI.xml
+E:\7 opencv\Tracker\Tracker\bin\Debug\Emgu.CV.World.xml
+E:\7 opencv\Tracker\Tracker\bin\Debug\ZedGraph.xml
+E:\7 opencv\Tracker\Tracker\bin\Debug\de\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\es\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\fr\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\hu\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\it\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\ja\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\pt\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\ru\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\sk\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\sv\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\tr\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\7 opencv\Tracker\Tracker\obj\Debug\Tracker.csprojAssemblyReference.cache
+E:\7 opencv\Tracker\Tracker\obj\Debug\Tracker.Form1.resources
+E:\7 opencv\Tracker\Tracker\obj\Debug\Tracker.Properties.Resources.resources
+E:\7 opencv\Tracker\Tracker\obj\Debug\Tracker.csproj.GenerateResource.cache
+E:\7 opencv\Tracker\Tracker\obj\Debug\Tracker.csproj.CoreCompileInputs.cache
+E:\7 opencv\Tracker\Tracker\obj\Debug\Tracker.csproj.CopyComplete
+E:\7 opencv\Tracker\Tracker\obj\Debug\Tracker.exe
+E:\7 opencv\Tracker\Tracker\obj\Debug\Tracker.pdb

@@ -1,0 +1,124 @@
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.csprojAssemblyReference.cache
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.Form1.resources
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.csproj.GenerateResource.cache
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.csproj.CoreCompileInputs.cache
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\concrt140.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\cvextern.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\msvcp140.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\opencv_ffmpeg341_64.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x64\vcruntime140.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\concrt140.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\cvextern.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\msvcp140.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\opencv_ffmpeg341.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\x86\vcruntime140.dll
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\Example.MotionDetection.exe
+C:\Emgu\emgucv-windesktop 3.4.1.2976\bin\Example.MotionDetection.pdb
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\MotionDetection\obj\Debug\MotionDetection.csproj.CopyComplete
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\MotionDetection\obj\Debug\Example.MotionDetection.exe
+C:\Emgu\emgucv-windesktop 3.4.1.2976\Emgu.CV.Example\MotionDetection\obj\Debug\Example.MotionDetection.pdb
+E:\students\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csprojResolveAssemblyReference.cache
+E:\students\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.Form1.resources
+E:\students\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csproj.GenerateResource.Cache
+E:\students\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csproj.CoreCompileInputs.cache
+E:\students\4-1\Медиа\Lab7\MotionDetection\obj\Debug\Example.MotionDetection.exe
+E:\students\4-1\Медиа\Lab7\MotionDetection\obj\Debug\Example.MotionDetection.pdb
+E:\students\4-1\Медиа\bin\x64\concrt140.dll
+E:\students\4-1\Медиа\bin\x64\cvextern.dll
+E:\students\4-1\Медиа\bin\x64\msvcp140.dll
+E:\students\4-1\Медиа\bin\x64\opencv_ffmpeg343_64.dll
+E:\students\4-1\Медиа\bin\x64\vcruntime140.dll
+E:\students\4-1\Медиа\bin\x86\concrt140.dll
+E:\students\4-1\Медиа\bin\x86\cvextern.dll
+E:\students\4-1\Медиа\bin\x86\msvcp140.dll
+E:\students\4-1\Медиа\bin\x86\opencv_ffmpeg343.dll
+E:\students\4-1\Медиа\bin\x86\vcruntime140.dll
+E:\students\4-1\Медиа\bin\Example.MotionDetection.exe
+E:\students\4-1\Медиа\bin\Example.MotionDetection.pdb
+D:\4-1\4-1\Медиа\bin\x64\concrt140.dll
+D:\4-1\4-1\Медиа\bin\x64\cvextern.dll
+D:\4-1\4-1\Медиа\bin\x64\msvcp140.dll
+D:\4-1\4-1\Медиа\bin\x64\opencv_ffmpeg343_64.dll
+D:\4-1\4-1\Медиа\bin\x64\vcruntime140.dll
+D:\4-1\4-1\Медиа\bin\x86\concrt140.dll
+D:\4-1\4-1\Медиа\bin\x86\cvextern.dll
+D:\4-1\4-1\Медиа\bin\x86\msvcp140.dll
+D:\4-1\4-1\Медиа\bin\x86\opencv_ffmpeg343.dll
+D:\4-1\4-1\Медиа\bin\x86\vcruntime140.dll
+D:\4-1\4-1\Медиа\bin\Example.MotionDetection.exe.config
+D:\4-1\4-1\Медиа\bin\Example.MotionDetection.exe
+D:\4-1\4-1\Медиа\bin\Example.MotionDetection.pdb
+D:\4-1\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csprojAssemblyReference.cache
+D:\4-1\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.Form1.resources
+D:\4-1\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csproj.GenerateResource.cache
+D:\4-1\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csproj.CoreCompileInputs.cache
+D:\4-1\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csproj.CopyComplete
+D:\4-1\4-1\Медиа\Lab7\MotionDetection\obj\Debug\Example.MotionDetection.exe
+D:\4-1\4-1\Медиа\Lab7\MotionDetection\obj\Debug\Example.MotionDetection.pdb
+D:\4-1\Медиа\bin\x64\concrt140.dll
+D:\4-1\Медиа\bin\x64\cvextern.dll
+D:\4-1\Медиа\bin\x64\msvcp140.dll
+D:\4-1\Медиа\bin\x64\opencv_ffmpeg343_64.dll
+D:\4-1\Медиа\bin\x64\vcruntime140.dll
+D:\4-1\Медиа\bin\x86\concrt140.dll
+D:\4-1\Медиа\bin\x86\cvextern.dll
+D:\4-1\Медиа\bin\x86\msvcp140.dll
+D:\4-1\Медиа\bin\x86\opencv_ffmpeg343.dll
+D:\4-1\Медиа\bin\x86\vcruntime140.dll
+D:\4-1\Медиа\bin\Example.MotionDetection.exe.config
+D:\4-1\Медиа\bin\Example.MotionDetection.exe
+D:\4-1\Медиа\bin\Example.MotionDetection.pdb
+D:\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csprojAssemblyReference.cache
+D:\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.Form1.resources
+D:\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csproj.GenerateResource.cache
+D:\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csproj.CoreCompileInputs.cache
+D:\4-1\Медиа\Lab7\MotionDetection\obj\Debug\MotionDetection.csproj.CopyComplete
+D:\4-1\Медиа\Lab7\MotionDetection\obj\Debug\Example.MotionDetection.exe
+D:\4-1\Медиа\Lab7\MotionDetection\obj\Debug\Example.MotionDetection.pdb
+D:\Education\!4-1\Labs\Media systems\bin\x64\concrt140.dll
+D:\Education\!4-1\Labs\Media systems\bin\x64\cvextern.dll
+D:\Education\!4-1\Labs\Media systems\bin\x64\msvcp140.dll
+D:\Education\!4-1\Labs\Media systems\bin\x64\opencv_ffmpeg343_64.dll
+D:\Education\!4-1\Labs\Media systems\bin\x64\vcruntime140.dll
+D:\Education\!4-1\Labs\Media systems\bin\x86\concrt140.dll
+D:\Education\!4-1\Labs\Media systems\bin\x86\cvextern.dll
+D:\Education\!4-1\Labs\Media systems\bin\x86\msvcp140.dll
+D:\Education\!4-1\Labs\Media systems\bin\x86\opencv_ffmpeg343.dll
+D:\Education\!4-1\Labs\Media systems\bin\x86\vcruntime140.dll
+D:\Education\!4-1\Labs\Media systems\bin\Example.MotionDetection.exe.config
+D:\Education\!4-1\Labs\Media systems\bin\Example.MotionDetection.exe
+D:\Education\!4-1\Labs\Media systems\bin\Example.MotionDetection.pdb
+D:\Education\!4-1\Labs\Media systems\Lab 7\MotionDetection\obj\Debug\MotionDetection.csprojAssemblyReference.cache
+D:\Education\!4-1\Labs\Media systems\Lab 7\MotionDetection\obj\Debug\MotionDetection.Form1.resources
+D:\Education\!4-1\Labs\Media systems\Lab 7\MotionDetection\obj\Debug\MotionDetection.csproj.GenerateResource.cache
+D:\Education\!4-1\Labs\Media systems\Lab 7\MotionDetection\obj\Debug\MotionDetection.csproj.CoreCompileInputs.cache
+D:\Education\!4-1\Labs\Media systems\Lab 7\MotionDetection\obj\Debug\MotionDetection.csproj.CopyComplete
+D:\Education\!4-1\Labs\Media systems\Lab 7\MotionDetection\obj\Debug\Example.MotionDetection.exe
+D:\Education\!4-1\Labs\Media systems\Lab 7\MotionDetection\obj\Debug\Example.MotionDetection.pdb
+E:\bin\x64\concrt140.dll
+E:\bin\x64\cvextern.dll
+E:\bin\x64\msvcp140.dll
+E:\bin\x64\opencv_ffmpeg343_64.dll
+E:\bin\x64\vcruntime140.dll
+E:\bin\x86\concrt140.dll
+E:\bin\x86\cvextern.dll
+E:\bin\x86\msvcp140.dll
+E:\bin\x86\opencv_ffmpeg343.dll
+E:\bin\x86\vcruntime140.dll
+E:\bin\Example.MotionDetection.exe.config
+E:\bin\Example.MotionDetection.exe
+E:\bin\Example.MotionDetection.pdb
+E:\MotionDetection\obj\Debug\MotionDetection.csprojAssemblyReference.cache
+E:\MotionDetection\obj\Debug\MotionDetection.Form1.resources
+E:\MotionDetection\obj\Debug\MotionDetection.csproj.GenerateResource.cache
+E:\MotionDetection\obj\Debug\MotionDetection.csproj.CoreCompileInputs.cache
+E:\MotionDetection\obj\Debug\MotionDetection.csproj.CopyComplete
+E:\MotionDetection\obj\Debug\Example.MotionDetection.exe
+E:\MotionDetection\obj\Debug\Example.MotionDetection.pdb
+E:\7 opencv\MotionDetection\obj\Debug\MotionDetection.csprojAssemblyReference.cache
+E:\7 opencv\MotionDetection\obj\Debug\MotionDetection.Form1.resources
+E:\7 opencv\MotionDetection\obj\Debug\MotionDetection.csproj.GenerateResource.cache
+E:\7 opencv\MotionDetection\obj\Debug\MotionDetection.csproj.CoreCompileInputs.cache
+E:\7 opencv\MotionDetection\obj\Debug\MotionDetection.csproj.CopyComplete
+E:\7 opencv\MotionDetection\obj\Debug\Example.MotionDetection.exe
+E:\7 opencv\MotionDetection\obj\Debug\Example.MotionDetection.pdb
